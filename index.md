@@ -1,3 +1,10 @@
 <body>
-Fudy is a new application being developed by University of Melbourne students. We would like to thank you for allowing your curiousity to get the better of you and scanning the QR code in front of you!
+Fudy is a new application being developed by University of Melbourne students. We would like to thank you for allowing your curiosity to get the better of you and scanning the QR code!
 
+Fudy, with the help of the university, will map out a selection of tables all over the university, in the libraries, in the student lounges and help students find a place to study. 
+
+Each study spot will have a QR code in front of it, just like the table that you are sitting at. When a student sits down to study at a "Fudy" table, they will need to scan the QR code and input how long they will be in that study spot. This will be updated on a real time map that application users will be able to view. When the student leaves, they will need to "scan out" and again this will be updated on the map.
+
+To create more incentive for students to scan in and out, they will have the opporunity to gain points everytime they scan in and out. These points can be redeemed for food vouchers. If there is anything that students enjoy, it's cheap food!
+
+Our team would love 
