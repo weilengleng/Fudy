@@ -17,7 +17,7 @@
   <br />
 <p> To create more incentive for students to scan in and out, they will have the opporunity to gain points everytime they scan. These points can be redeemed for food vouchers. If there is anything that students enjoy, it's cheap food!
   <br />
-<p> Our team would love to hear some feedback on the concept, if you have anything you would like to tell us, or would even like to work with us, please fill out this Google <a href="https://docs.google.com/forms/d/e/1FAIpQLSevrbuux86zDOM5tgVasoI7oqa2XSmrMYuPUnepvgnHAVvQuw/viewform?usp=sf_link "> form</a> and we will get back to you shortly.
+<p> Our team would love to hear your feedback on the concept, if you have anything you would like to tell us, would like to have more information or would even like to work with us, please fill out this Google <a href="https://docs.google.com/forms/d/e/1FAIpQLSevrbuux86zDOM5tgVasoI7oqa2XSmrMYuPUnepvgnHAVvQuw/viewform?usp=sf_link "> form</a> and we will get back to you shortly.
   <br />
 <p>Regards,
    <br />
