@@ -8,9 +8,11 @@ Fudy, with the help of the university, will map out a selection of tables all ov
 Each study spot will have a QR code in front of it, just like the table that you are sitting at. When a student sits down to study at a "Fudy" table, they will need to scan the QR code and input how long they will be in that study spot. This will be updated on a real time map that application users will be able to view. When the student leaves, they will need to "scan out" and again this will be updated on the map.
 <p>
   <br />
+  
 To create more incentive for students to scan in and out, they will have the opporunity to gain points everytime they scan in and out. These points can be redeemed for food vouchers. If there is anything that students enjoy, it's cheap food!
 <p>
   <br />
+  
 Our team would love to hear some feedback on the concept, if you have anything you would like to tell us, or would even like to work with us, please fill out this Google form and we will get back to you shortly.
 <p>
   <br />
