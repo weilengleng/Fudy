@@ -14,7 +14,7 @@
   The Fudy team
 
 <body>
-
+<HEAD>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-124560072-1"></script>
 <script>
