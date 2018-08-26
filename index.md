@@ -1,3 +1,13 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-124560072-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-124560072-1');
+</script>
+
 <body>
 <p> Fudy is a new application being developed by University of Melbourne students. We would like to thank you for allowing your curiosity to get the better of you and scanning the QR code!
   <br />
@@ -14,13 +24,3 @@
   The Fudy team
 
 <body>
-<HEAD>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-124560072-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-124560072-1');
-</script>
