@@ -17,6 +17,8 @@
   <br />
 <p> To create more incentive for students to scan in and out, they will have the opporunity to gain points everytime they scan. These points can be redeemed for food vouchers. If there is anything that students enjoy, it's cheap food!
   <br />
+  <p> Moreover, accroding to the scientific evidence, people could keep excellent focus on doing one thing in 40 minutes and after that the focusing will going down and hard for people to achieve efficient work. So, we share a counting down function for helping you study here. We advise you chould set 40 minutes working and 10 minutes gap for having a short rest!. Feel free to have a try! <a href="https://greyli.github.io/pomodoro/"> Pomodoro Clock</a>
+  <br />
 <p> Our team would love to hear your feedback on the concept, if you have anything you would like to tell us, would like to have more information or would even like to work with us, please fill out this Google <a href="https://docs.google.com/forms/d/e/1FAIpQLSevrbuux86zDOM5tgVasoI7oqa2XSmrMYuPUnepvgnHAVvQuw/viewform?usp=sf_link "> form</a> and we will get back to you shortly.
   <br />
 <p>Regards,
