@@ -32,57 +32,5 @@
 <p>Regards,
    <br />
   The Fudy team
-
-  
-
-
-    <audio id="over_music">
-        <source src="http://e.ggtimer.com/styles/beepbeep.mp3">
-    </audio>
-    <!--a class="github" href="https://github.com/greyli/pomodoro" target="_blank"><img style="position: absolute; top: 0; right: 0; border: 0;" src="image/banner.png" alt="Fork me on GitHub"></a-->
-    <div class="box container  text-center">
-        <h2>Pomodoro Clock</h2>
-        <div class="row">
-        <div class="col-md-8 col-xs-8">
-            <div class="timer ">
-                <p class="time" id="time">25 : 00</p>
-            </div>
-            <div class="text-left">
-                Work <span class="badge" id="workSignal" style="background-color: orange"> </span>
-                Rest <span class="badge" id="restSignal"> </span>
-            </div><br>
-            <div class="progress">
-                <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width:0%">
-                </div>
-            </div>
-            <p class="mobile-control">
-                <a class="btn btn-primary start" href="#">Start</a>&nbsp;&nbsp;
-                <a class="btn btn-primary reset" href="#">Reset</a>
-            </p>
-        </div><br>
-        <div class="panel col-md-4 col-xs-4">
-            <p>
-               <a class="btn badge badge-primary" id="workMore">+</a> <span class="text"> <span id="workTime">25</span>
-            Minutes </span><a class="btn badge badge-primary" id="workLess">-</a>
-            </p><br>
-            <p>
-                <a class="btn badge badge-primary" id="restMore">+</a><span class="text"> <span id="restTime">5</span>
-            Minutes </span><a class="btn badge badge-primary" id="restLess">-</a>
-            </p>
-            <p class="desktop-control">
-                <a class="btn btn-primary start" href="#">Start</a>&nbsp;&nbsp;
-                <a class="btn btn-primary reset" href="#">Reset</a>
-            </p>
-        </div>
-        </div>
-    </div>
-    <br>
-    <footer class="text-center">
-    Made by <a href="http://greyli.com" target="_blank">Grey Li</a> /
-        Fork me on <a href="https://github.com/greyli/pomodoro" target="_blank">GitHub</a>
-    </footer>
-
-  <script src="//cdn.bootcss.com/jquery/3.1.1/jquery.min.js"></script>
-  <script src="js/main.js"></script>
 </body>
 </html>
